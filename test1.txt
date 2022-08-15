@@ -7,4 +7,4 @@ i well join a job of frontend development
 =======
 i have edit the file on Remote file then pull the file on localy, in 15th aguest 2022.
 >>>>>>> 9895f3770eb0404c36edaf82e1ed8fbe537e158f
-issus is solved by my team member
+issus is solved by my team member, the issuse number is 4
