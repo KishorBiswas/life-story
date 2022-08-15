@@ -1,11 +1,8 @@
 Hello , i am Kishor Biswas,
 We live in a India, Our Independence Day is next day at 15th Augest.
 i have add a new line , at 9:37 am  of 15th augast
-<<<<<<< HEAD
 i have edit the file on Remote file then pull the file on localy.
 i well join a job of frontend development
-=======
-i have edit the file on Remote file then pull the file on localy, in 15th aguest 2022.
->>>>>>> 9895f3770eb0404c36edaf82e1ed8fbe537e158f
 issus is solved by my team member, the issuse number is 4
-add a text in same line no 11, from main here
+new line is add from feature3 branch
+
